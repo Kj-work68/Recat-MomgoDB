@@ -12,7 +12,7 @@ plese install can use
 - npm install react-icons --save
 - npm install
 
-If you want run
+If you want run in terminal
 
 1. cd fronend, backend
 2. backend run => node server.js
